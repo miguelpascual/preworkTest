@@ -11,6 +11,7 @@ module.exports = {
       url: 'https://rinkeby.infura.io/v3/69414592c6bc4c52bd382350ee0ef9f2',
       // @kicoes habría que cambiar aquí la url concatenando como abajo pero no me ha funcionado
       //url: `https://rinkeby.infura.io/v3/${projectId}`,
+      //test git
       accounts: [privateKey],
     },  
   }, 
